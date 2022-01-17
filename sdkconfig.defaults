@@ -1,0 +1,2 @@
+# Only use a single core to save power
+CONFIG_FREERTOS_UNICORE=y
